@@ -1,6 +1,6 @@
 # Hey, I'm Russel Dsouza 👋
 
-I'm a front-end developer with 3+ years of hands-on experience, currently transitioning into cybersecurity. I build things for the web and break things to understand how they work.
+I'm a web developer with 3+ years of hands-on experience, currently transitioning into cybersecurity. I build things for the web and break things to understand how they work.
 
 ---
 
@@ -49,7 +49,3 @@ SOC fundamentals · Log analysis · Web security · Network security
 
 - 🌐 Portfolio — [russeldsouza.dev](https://russeldsouza.dev)
 - 💼 LinkedIn — [linkedin.com/in/russeldsouza-dev](https://linkedin.com/in/russeldsouza-dev)
-
----
-
-*"The more access you give an AI assistant, the more carefully you need to think about securing it."*
